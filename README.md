@@ -1,1 +1,1 @@
-# Javascript_30days
+# Javascript
